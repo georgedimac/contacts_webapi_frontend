@@ -1,5 +1,15 @@
 # Angular Contact List App
 
+### Info
+
+Angular project that gets a contact list from local 
+[REST webapi backend](https://github.com/georgedimac/contacts_webapi_backend/)
+
+Supports view/add/edit contacts.
+
+
+## About
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 ## Development server
