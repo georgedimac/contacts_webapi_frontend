@@ -46,7 +46,7 @@ export class ContactsApiService extends ApiService {
     update(contact: Contact) {
         const headers = this.getHeaders();
         //return this.http.put<Contact>(`${this.baseUrl}updatecontact?id=${contact.id}`, contact, {headers});
-        return this.http.put<Contact>(`${this.baseUrl}${contact.id}`, contact, {headers});
+        return this.http.put<Contact>(`${this.baseUrl}${contact.id}/`, contact, {headers});
     }
 
     delete(id: number) {
