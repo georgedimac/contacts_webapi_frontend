@@ -3,7 +3,7 @@
 ### Info
 
 Angular project that gets a contact list from local 
-[REST webapi backend](https://github.com/georgedimac/contacts_webapi_backend/)
+[REST webapi backend](https://github.com/georgedimac/contacts_webapi_backend/tree/ver2) (Branch ver2)
 
 Supports view/add/edit contacts.
 
