@@ -53,4 +53,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: main_pages  # default: gh-pages
         publish_dir: dist/angular-contact-list-app
-        enable_jekyll: true
+        enable_jekyll: false
